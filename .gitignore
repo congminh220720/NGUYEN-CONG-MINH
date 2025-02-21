@@ -1,0 +1,17 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+/src/problem5/node_modules/
+/src/problem5/jspm_packages/
+/src/problem5/dist/
+
+
+# Optional npm cache directory
+.npm
+/src/problem5/package-lock.json
+
+# dotenv environment variables file
+/src/problem5/.env
