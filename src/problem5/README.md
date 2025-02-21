@@ -2,7 +2,7 @@
 
 ### Setup
 
-- Install Node  > 18
+- Install Node  >= 18
 
 ## Install dependencies:
 	npm install
